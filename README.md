@@ -1,4 +1,4 @@
-#Read Me
+#Read Me.
 
 <div style="display:flex;justify-content:space-between; padding:0 1em 0 1em">
   <div>
