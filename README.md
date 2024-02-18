@@ -1,4 +1,4 @@
-![](https://github-readme-stats-hycocm0m3-nekitori.vercel.app/api?username=nekitori)](https://github.com/nekitori)
+![[MY](https://github-readme-stats-hycocm0m3-nekitori.vercel.app/api?username=nekitori)](https://github.com/nekitori)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
