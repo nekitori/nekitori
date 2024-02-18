@@ -1,6 +1,6 @@
 #Read Me.
 
-![](https://github-readme-stats-hycocm0m3-nekitori.vercel.app/api?username=nekitori\&include_all_commits=true)
+[](https://github-readme-stats-hycocm0m3-nekitori.vercel.app/api?username=nekitori&include_all_commits=true)
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 
 <picture>
